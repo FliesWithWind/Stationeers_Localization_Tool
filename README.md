@@ -10,9 +10,12 @@ Simple tool that combines new localization XML file with your old translations.
 
 # Usage
 
-The easiest way to run it is to change "polish.xml" in file "transfer.bat" and run it.
+The easiest way to run it is to change "polish.xml" to your localization file name in file "transfer.bat" and run it.
 
 You can also run the script from CMD/Terminal with command:
 python transfer_localization.py -o polish.xml
 or
 python.exe transfer_localization.py -o polish.xml
+
+To check avalible parameters run:
+python transfer_localization.py -h
