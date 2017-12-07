@@ -35,7 +35,7 @@ newcode = newroot.find('Code')
 newcode.text = oldcode.text
 oldfont = oldroot.find('Font')
 newfont = newroot.find('Font')
-newfont.text = old.text
+newfont.text = oldfont.text
 
 #Importing 
 for record_reagent in oldroot.iter('RecordReagent'):
