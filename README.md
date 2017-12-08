@@ -37,4 +37,6 @@ python.exe transfer_localization.py -o polish.xml -c
 ```
 
 To check avalible parameters run:
+```
 python transfer_localization.py -h
+```
