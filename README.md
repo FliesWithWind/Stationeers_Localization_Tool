@@ -4,6 +4,8 @@ Simple tool that extracts new strings from "english.xml" file and after translat
 # Installation
 1. In order to run this script you need to install Python 2.7. You can get it here https://www.python.org/downloads/release/python-2714/
 
+Be sure to add python to path during installation on Windows.
+
 2. Download contents of this repo and place it in some folder. For example C:\Stationeers_translation
 
 3. Place your XML localization file and new english.xml file in the same folder.
